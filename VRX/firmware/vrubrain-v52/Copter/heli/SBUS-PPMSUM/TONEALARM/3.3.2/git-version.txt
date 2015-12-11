@@ -1,0 +1,7 @@
+commit 5f9452f7d2ba290b3f4e91b97d25ff2d16e0db8a
+Author: LukeMike <luca.micheletti.laser@gmail.com>
+Date:   Thu Dec 3 00:05:09 2015 +0100
+
+    Tools/scripts: changed script to build local branch and single board (parameters: -v vehicle -b board)
+
+APMVERSION: APM:Copter V3.3.2

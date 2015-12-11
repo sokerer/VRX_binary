@@ -1,0 +1,7 @@
+commit e8096e2c01302d7ad6906200315c7a0100c1fb09
+Author: LukeMike <luca.micheletti.laser@gmail.com>
+Date:   Thu Dec 3 00:05:09 2015 +0100
+
+    Tools/scripts: changed script to build local branch and single board (parameters: -v vehicle -b board)
+
+APMVERSION: ArduRover v2.50

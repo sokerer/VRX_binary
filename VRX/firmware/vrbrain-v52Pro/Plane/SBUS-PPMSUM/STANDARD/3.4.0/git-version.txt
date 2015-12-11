@@ -1,0 +1,7 @@
+commit ac77bb946f02b7f58c089f051f9582b9103b0139
+Author: LukeMike <luca.micheletti.laser@gmail.com>
+Date:   Thu Dec 3 00:05:09 2015 +0100
+
+    Tools/scripts: changed script to build local branch and single board (parameters: -v vehicle -b board)
+
+APMVERSION: ArduPlane V3.4.0
