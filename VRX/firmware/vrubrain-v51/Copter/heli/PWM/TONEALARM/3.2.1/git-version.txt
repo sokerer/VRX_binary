@@ -1,0 +1,7 @@
+commit cac5eb2b569bd44243b30971a1531f305ade8696
+Author: LukeMike <luca.micheletti.laser@gmail.com>
+Date:   Mon Jan 11 12:55:49 2016 +0100
+
+    mk/targets: added all VR targets
+
+APMVERSION: ArduCopter V3.2.1

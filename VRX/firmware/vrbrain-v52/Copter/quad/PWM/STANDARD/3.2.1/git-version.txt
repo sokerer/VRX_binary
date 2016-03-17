@@ -1,7 +1,7 @@
-commit d472095d1a932c923f7b8f0c2fa20d41dbf4b9ac
+commit f9de8f3bdf1bca0f58f962ac57639200a26f33c6
 Author: LukeMike <luca.micheletti.laser@gmail.com>
-Date:   Thu Dec 3 00:05:09 2015 +0100
+Date:   Mon Jan 11 12:55:49 2016 +0100
 
-    Tools/scripts: changed script to build local branch and single board (parameters: -v vehicle -b board)
+    mk/targets: added all VR targets
 
 APMVERSION: ArduCopter V3.2.1

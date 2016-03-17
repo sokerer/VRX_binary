@@ -1,0 +1,10 @@
+commit 065b869c2d1d41dc4f0a21f58e2e5e7c6161a61b
+Author: LukeMike <luca.micheletti.laser@gmail.com>
+Date:   Mon Jan 11 12:55:49 2016 +0100
+
+    mk/targets: added all VR targets
+    
+    # Conflicts:
+    #	mk/targets.mk
+
+APMVERSION: APM:Copter V3.3.3
